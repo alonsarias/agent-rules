@@ -10,13 +10,13 @@ Performance optimization and component architecture patterns adapted from [Verce
 
 | Rule File | Description | Key Topics |
 |-----------|-------------|------------|
+| `react-composition-patterns.mdc` | Component architecture | Compound components, context, state management |
 | `react-performance-critical.mdc` | Critical performance patterns | Async waterfalls, Promise.all, bundle size, lazy loading |
+| `react-client-data-fetching.mdc` | Client-side data fetching | SWR, event listeners, localStorage |
 | `react-rerender-optimization.mdc` | Re-render optimization | memo, useMemo, useState, useRef, derived state |
 | `react-rendering-performance.mdc` | DOM/rendering performance | Animations, SVG, CSS content-visibility, conditionals |
-| `react-client-data-fetching.mdc` | Client-side data fetching | SWR, event listeners, localStorage |
 | `react-javascript-performance.mdc` | JavaScript micro-optimizations | Loops, caching, Set/Map, array methods |
 | `react-advanced-patterns.mdc` | Advanced React patterns | Refs, useEffectEvent, initialization |
-| `react-composition-patterns.mdc` | Component architecture | Compound components, context, state management |
 
 **Attribution:** Based on Vercel Engineering's [agent-skills](https://github.com/vercel-labs/agent-skills), specifically `react-best-practices` and `composition-patterns`. Next.js-specific content has been removed to focus on pure React patterns.
 
